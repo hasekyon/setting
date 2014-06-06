@@ -1,0 +1,1 @@
+['publish', 'localhost', '6379', 'subscribes', 'shard', 'master', 'slaves', 'ranking']

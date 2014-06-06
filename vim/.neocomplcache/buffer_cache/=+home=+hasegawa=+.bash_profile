@@ -1,0 +1,1 @@
+['.bash_profile', 'aliases', 'functions', '.bashrc', 'then', 'User', 'specific', 'environment', 'startup', 'programs', 'PATH', 'HOME', 'export', 'TERM', 'xterm-256color', 'EDITOR', 'Backspace', 'stty', 'erase']

@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/hasegawa/trunk/program/server/gm_tool/lib/Cake'
+let g:netrw_dirhist_2='/home/hasegawa/trunk/program/server/gm_tool/lib/Cake/Routing'
+let g:netrw_dirhist_3='/home/hasegawa/trunk/program/server/gm_tool/app'
+let g:netrw_dirhist_4='/home/hasegawa/trunk/program/server/gm_tool/app/Config'
+let g:netrw_dirhist_5='/home/hasegawa/trunk/program/server/gm_tool/app'
+let g:netrw_dirhist_6='/home/hasegawa/trunk/program/server/gm_tool'
+let g:netrw_dirhist_7='/home/hasegawa/trunk/program/server/gm_tool/gen'

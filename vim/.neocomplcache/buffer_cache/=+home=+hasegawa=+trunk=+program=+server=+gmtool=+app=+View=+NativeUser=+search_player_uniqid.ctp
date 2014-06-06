@@ -1,0 +1,1 @@
+['<div>', '<h3>', 'BridgeUser', '</h3>', '</div>', 'echo', '$this', 'Form', 'create', 'array', 'search_chara_id', 'input', 'chara_id', 'type', 'text', 'label', 'false', 'Gmtool', 'table', '$table_title', '$heads', '$datas']

@@ -1,0 +1,1 @@
+['このファイルはsqlgenによって自動生成されています', 'クライアントエラーログテーブル', 'drop', 'table', 'exists', 'cl_error_log', 'create', 'log_id', 'bigint', 'unsigned', 'auto_increment', 'comment', 'ログID', 'error_data', 'text', 'null', 'エラーデータ', 'create_date', 'datetime', '作成日時', 'primary', 'engine', 'InnoDB', 'default', 'character', 'utf8', 'collate', 'utf8_bin']
